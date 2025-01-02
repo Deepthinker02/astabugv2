@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+fork+the+repo...👇👇)](https://git.io/typing-svg)
+<br>
+<a href='https://github.com/Davemiracle01/astabugv2' target="_blank"><img alt='PANEL FILE' src='https://img.shields.io/badge/fork the repo-h?color=blur&style=for-the-badge&logo=panel files' width="96.35" height="28"/></a></p>
+
 ***
 </p> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F92C37F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=ASTA-BUG-BOT;©+⚔️+DAVE+⚔️" alt="Typing SVG" /></a>
