@@ -2,6 +2,12 @@
 <br>
 <a href='https://github.com/Davemiracle01/astabugv2/fork' target="_blank"><img alt='PANEL FILE' src='https://img.shields.io/badge/FORK THE REPO -h?color=blur&style=for-the-badge&logo=panel files' width="96.35" height="28"/></a></p>
 ***
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=+click+here+to+get+the+panel+file👇👇)](https://git.io/typing-svg)
+
+ <br>
+<a href='https://github.com/Davemiracle01/astabugv2/archive/refs/heads/main.zip' target="_blank"><img alt='PANEL FILE' src='https://img.shields.io/badge/GET PANEL FILE -h?color=black&style=for-the-badge&logo=panel files' width="96.35" height="28"/></a></p>
+
+
 </p> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F92C37F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=ASTA-BUG-BOT;©+⚔️+DAVE+⚔️" alt="Typing SVG" /></a>
 
@@ -33,13 +39,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" alt='https:/github.com/Davemiracle01/ASTA-BOT :: Visitor's Count"/></p>
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=+click+here+to+get+the+panel+file👇👇)](https://git.io/typing-svg)
-
- <br>
-<a href='https://github.com/Davemiracle01/astabugv2/archive/refs/heads/main.zip' target="_blank"><img alt='PANEL FILE' src='https://img.shields.io/badge/GET PANEL FILE -h?color=black&style=for-the-badge&logo=panel files' width="96.35" height="28"/></a></p>
-
-
 ***
 
 </p>
