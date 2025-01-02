@@ -31,14 +31,14 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆get+the+files+for+panel..👇👇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Support+Deployments+on...👇👇)](https://git.io/typing-svg)
 </p>
 
 <p align="center">
-  <a href="https://github.com/Davemiracle01/astabugv2/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/Davemiracle01/ASTA-BOT/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
 
  <br>
-<a href='https://github.com/Davemiracle01/astabugv2/archive/refs/heads/main.zip' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=panel files' width="96.35" height="28"/></a></p>
+<a href='https://github.com/Davemiracle01/astabugv2/archive/refs/heads/main.zip' target="_blank"><img alt='CLICK HERE TO GET THE FILE' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=panel files' width="96.35" height="28"/></a></p>
 
 
 ***
