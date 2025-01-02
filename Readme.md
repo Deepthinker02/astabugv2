@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+fork+the+repo...👇👇)](https://git.io/typing-svg)
 <br>
-<a href='https://github.com/Davemiracle01/astabugv2' target="_blank"><img alt='PANEL FILE' src='https://img.shields.io/badge/fork the repo-h?color=blur&style=for-the-badge&logo=panel files' width="96.35" height="28"/></a></p>
+<a href='[https://github.com/Davemiracle01/astabugv2/fork](https://github.com/Davemiracle01/astabugv2/fork)' target="_blank"><img alt='PANEL FILE' src='https://img.shields.io/badge/fork the repo-h?color=blur&style=for-the-badge&logo=panel files' width="96.35" height="28"/></a></p>
 
 ***
 </p> <p align="center">
