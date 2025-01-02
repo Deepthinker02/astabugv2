@@ -31,7 +31,7 @@
 
 ---
 
-[![Typing SVG](https://readme-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=+click+here+to+get+the+panel+file+no-ncryption...👇👇)](https://git.io/typing-svg)
+[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=+click+here+to+get+the+panel+file👇👇)](https://git.io/typing-svg)
 
  <br>
 <a href='https://github.com/Davemiracle01/astabugv2/archive/refs/heads/main.zip' target="_blank"><img alt='PANEL FILE' src='https://img.shields.io/badge/GET PANEL FILE -h?color=black&style=for-the-badge&logo=panel files' width="96.35" height="28"/></a></p>
