@@ -1,8 +1,8 @@
 require("./Databases/module.js")
 
 //========== Setting Owner ==========//
-global.no = "254114127157"
-global.owner = "©dave"
+global.no = "923439597938"
+global.owner = "𓆩𝕯𝗘𝗩𝗜𝕷࿐"
 global.bot = "𝐀𝐒𝐓𝐀-𝐁𝐔𝐆"
 global.v = "1.0.0"
 global.welcome = false
